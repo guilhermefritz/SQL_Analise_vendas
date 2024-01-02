@@ -8,7 +8,7 @@ O objetivo é extrair insights e informações úteis para auxiliar nas decisõe
 
 -Ordenação (ORDER BY)
 
--Funções de Agregação(COUNT,SUM,AVH,MIN,MAX)
+#### -Funções de Agregação(COUNT,SUM,AVG,MIN,MAX)
 
 -Extração DATE dos Dados: A função DATE será utilizada para extrair informações de data dos dados.
 
