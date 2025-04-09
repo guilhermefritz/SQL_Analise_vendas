@@ -1,3 +1,7 @@
+
+link do projeto no databricks :https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/1686290630198130/3768819816422607/2524726961790864/latest.html
+
+
 Este projeto em SQL visa analisar os dados de vendas de uma loja ao longo do tempo. Os dados contêm informações sobre datas de venda, categorias,segmentos, produtos vendidos , valores das vendas e etc.... 
 
 O objetivo é extrair insights e informações úteis para auxiliar nas decisões de negócios. O projeto envolve os seguintes elementos:
@@ -10,7 +14,7 @@ O objetivo é extrair insights e informações úteis para auxiliar nas decisõe
 
 #### -Funções de Agregação(COUNT,SUM,AVG,MIN,MAX)
 
--Funções de manipulação de DATA
+-Funções de manipulação de DATA no databricks
 -Utilização de Condicionais (CASE WHEN)
 
 ## Perguntas do questionário:
